@@ -1,0 +1,11 @@
+C:\Users\Abner_Bia\Dropbox\cursos\fatec\02-analise-desenvolvimento-sistemas\5-semestre\sistemas-distribuídos_01.2020\01-bimestre\Projetos\Chat\ChatCliente\bin\Debug\netcoreapp3.1\ChatCliente.exe
+C:\Users\Abner_Bia\Dropbox\cursos\fatec\02-analise-desenvolvimento-sistemas\5-semestre\sistemas-distribuídos_01.2020\01-bimestre\Projetos\Chat\ChatCliente\bin\Debug\netcoreapp3.1\ChatCliente.deps.json
+C:\Users\Abner_Bia\Dropbox\cursos\fatec\02-analise-desenvolvimento-sistemas\5-semestre\sistemas-distribuídos_01.2020\01-bimestre\Projetos\Chat\ChatCliente\bin\Debug\netcoreapp3.1\ChatCliente.runtimeconfig.json
+C:\Users\Abner_Bia\Dropbox\cursos\fatec\02-analise-desenvolvimento-sistemas\5-semestre\sistemas-distribuídos_01.2020\01-bimestre\Projetos\Chat\ChatCliente\bin\Debug\netcoreapp3.1\ChatCliente.runtimeconfig.dev.json
+C:\Users\Abner_Bia\Dropbox\cursos\fatec\02-analise-desenvolvimento-sistemas\5-semestre\sistemas-distribuídos_01.2020\01-bimestre\Projetos\Chat\ChatCliente\bin\Debug\netcoreapp3.1\ChatCliente.dll
+C:\Users\Abner_Bia\Dropbox\cursos\fatec\02-analise-desenvolvimento-sistemas\5-semestre\sistemas-distribuídos_01.2020\01-bimestre\Projetos\Chat\ChatCliente\bin\Debug\netcoreapp3.1\ChatCliente.pdb
+C:\Users\Abner_Bia\Dropbox\cursos\fatec\02-analise-desenvolvimento-sistemas\5-semestre\sistemas-distribuídos_01.2020\01-bimestre\Projetos\Chat\ChatCliente\obj\Debug\netcoreapp3.1\ChatCliente.csprojAssemblyReference.cache
+C:\Users\Abner_Bia\Dropbox\cursos\fatec\02-analise-desenvolvimento-sistemas\5-semestre\sistemas-distribuídos_01.2020\01-bimestre\Projetos\Chat\ChatCliente\obj\Debug\netcoreapp3.1\ChatCliente.AssemblyInfoInputs.cache
+C:\Users\Abner_Bia\Dropbox\cursos\fatec\02-analise-desenvolvimento-sistemas\5-semestre\sistemas-distribuídos_01.2020\01-bimestre\Projetos\Chat\ChatCliente\obj\Debug\netcoreapp3.1\ChatCliente.AssemblyInfo.cs
+C:\Users\Abner_Bia\Dropbox\cursos\fatec\02-analise-desenvolvimento-sistemas\5-semestre\sistemas-distribuídos_01.2020\01-bimestre\Projetos\Chat\ChatCliente\obj\Debug\netcoreapp3.1\ChatCliente.dll
+C:\Users\Abner_Bia\Dropbox\cursos\fatec\02-analise-desenvolvimento-sistemas\5-semestre\sistemas-distribuídos_01.2020\01-bimestre\Projetos\Chat\ChatCliente\obj\Debug\netcoreapp3.1\ChatCliente.pdb
